@@ -111,6 +111,6 @@ This project is part of academic research and open for educational use. Please c
 ## 🙋‍♂️ Author
 
 **Leonard Müller**  
-Master Thesis - Julius-Maximilians-Universität Würzburg  
+Part of my Master Thesis - Julius-Maximilians-Universität Würzburg  
 Contact: leonardmueller.lm@gmail.com  
 
